@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "excel_automator": {
+            "command": "node",
+            "args": [
+                "/Users/rishavacharya/Desktop/mcp_tester/src/index.js"
+            ]
+        }
+    }
+}
